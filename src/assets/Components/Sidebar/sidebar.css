@@ -1,0 +1,25 @@
+.Toptendance {
+  border: rgb(53, 48, 48) solid;
+  border-radius: 10px;
+  padding: 40px;
+  text-align: center;
+}
+.Toptendance h2 {
+  text-align: center;
+}
+.Toptendance .product-card {
+  margin: 20px auto;
+}
+.Toptendance .product-card img {
+  height: auto;
+  width: 60%;
+  margin: auto;
+}
+.btn-primary {
+  background-color: #e77b2e !important;
+  border: solid transparent !important;
+}
+.btn-primary:hover {
+  background-color: #c55e14 !important;
+  border: solid transparent !important;
+}

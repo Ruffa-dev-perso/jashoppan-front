@@ -1,0 +1,67 @@
+.account-body {
+  min-height: calc(100vh - 168px);
+  text-align: center;
+  width: 70%;
+  margin: 30px auto;
+}
+.border {
+  background-color: #343a40;
+  border: 1px black solid;
+  border-radius: 10px;
+}
+
+@import url(https://fonts.googleapis.com/css?family=Righteous);
+
+h1 {
+  color: #ffa766;
+  font-family: "Righteous", serif;
+}
+.hi,
+.border h1 {
+  font-size: 50px;
+  margin: 20px;
+}
+.border label {
+  font-size: 20px;
+  color: white;
+}
+.border input {
+  border-radius: 10px;
+  margin-bottom: 20px;
+  border: solid white 2px;
+  padding: 10px;
+  width: 500px;
+}
+
+.button button {
+  margin: 20px;
+  font-size: 15px;
+  color: #ffa766;
+  font-family: "Righteous", serif;
+  border: solid#ffa766 2px;
+  border-radius: 10px;
+  background-color: #343a40;
+  margin-bottom: 50px;
+}
+.return {
+  color: red;
+}
+.account-separator {
+  border-top: 5px solid white;
+  width: 100%;
+}
+.account-separator p {
+  color: white;
+  margin-bottom: 20px;
+}
+
+@media screen and (max-width: 800px) {
+  .border input {
+    font-size: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    border: solid white 2px;
+    padding: 10px;
+    width: 250px;
+  }
+}

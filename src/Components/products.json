@@ -1,0 +1,424 @@
+{
+  "manga": [
+    {
+      "id": "figurine-luffy",
+      "title": "Figurine Luffy D. Monkey",
+      "imagexs": "./img/figurine/Manga/One-piece-Luffy-xs.jpg",
+      "image": "./img/figurine/Manga/One-piece-Luffy-500.jpg",
+      "price": "39,90€",
+      "characteristics": [
+        "Figurine en PVC de haute qualité",
+        "Mesure environ 25 cm sur socle",
+        "Gamme Memory de Banpresto",
+        "Se présente en boîte cartonnée"
+      ]
+    },
+    {
+      "id": "figurine-luffy-20th",
+      "title": "Figurine Luffy D. Monkey 20th Anniversary",
+      "imagexs": "./img/figurine/Manga/One-piece-Luffy-anniv-xs.jpg",
+      "image": "./img/figurine/Manga/One-piece-Luffy-anniv-500.jpg",
+      "price": "264,99€",
+      "characteristics": [
+        "Figurine en PVC de haute qualité",
+        "Mesure 15 cm",
+        "Edition limitée 20ème Anniversaire",
+        "Vendue sous window box"
+      ]
+    },
+    {
+      "id": "figurine-chopper",
+      "title": "Figurine Tony Tony Chopper",
+      "imagexs": "./img/figurine/Manga/One-piece-Chopper-xs.jpg",
+      "image": "./img/figurine/Manga/One-piece-Chopper-500.jpg",
+      "price": "54,99€",
+      "characteristics": [
+        "Figurine en PVC de haute qualité",
+        "Mesure environ 20 cm",
+        "Gamme King Of Artist de Banpresto",
+        "Se présente en boîte cartonnée"
+      ]
+    },
+    {
+      "id": "figurine-usopp",
+      "title": "Figurine Usopp",
+      "imagexs": "./img/figurine/Manga/usopp-xs.jpg",
+      "image": "./img/figurine/Manga/usopp-500.jpg",
+      "price": "34,99€",
+      "characteristics": [
+        "Figurine en PVC de haute qualité",
+        "Mesure environ 17 cm sur socle",
+        "Gamme DXF The Grandline Men Wano Kuni",
+        "Se présente en boîte cartonnée"
+      ]
+    },
+
+    {
+      "id": "figurine-goku",
+      "title": "Figurine Goku petit",
+      "imagexs": "./img/figurine/Manga/Goku-blesse-xs.jpg",
+      "image": "./img/figurine/Manga/Goku-blesse-500.jpg",
+      "price": "29,99€",
+      "characteristics": [
+        "Figurine en PVC de haute qualité",
+        "Mesure environ 12 cm",
+        "Modèle Mini, fidèlement adapté au manga DBZ",
+        "Se présente en boîte cartonnée"
+      ]
+    },
+    {
+      "id": "figurine-freezer",
+      "title": "Figurine Freezer Forme Finale",
+      "imagexs": "./img/figurine/Manga/Freezer Final Form-xs.jpg",
+      "image": "./img/figurine/Manga/Freezer Final Form-500.jpg",
+      "price": "64,99€",
+      "characteristics": [
+        "Figurine articulée en PVC de haute qualité",
+        "Mesure environ 15 cm",
+        "Forme Finale de Freezer",
+        "Se présente en boîte cartonnée"
+      ]
+    },
+    {
+      "id": "figurine-roshi",
+      "title": "Figurine Master Roshi",
+      "imagexs": "./img/figurine/Manga/Master-Roshi-xs.jpg",
+      "image": "./img/figurine/Manga/Master-Roshi-500.jpg",
+      "price": "34,99€",
+      "characteristics": [
+        "Figurine en PVC de haute qualité",
+        "Mesure environ 15 cm",
+        "Gamme Memory de Banpresto",
+        "Se présente en boîte cartonnée"
+      ]
+    },
+    {
+      "id": "figurine-krilin",
+      "title": "Figurine Krilin",
+      "imagexs": "./img/figurine/Manga/Krilin-xs.jpg",
+      "image": "./img/figurine/Manga/Krilin-500.jpg",
+      "price": "64,99€",
+      "characteristics": [
+        "Figurine en PVC de haute qualité",
+        "Mesure environ 15 cm sur socle",
+        "Se présente en boîte cartonnée"
+      ]
+    },
+    {
+      "id": "figurine-jiraiya",
+      "title": "Figurine Jiraiya",
+      "imagexs": "./img/figurine/Manga/Jiraiya-xs.jpg",
+      "image": "./img/figurine/Manga/Jiraiya-500.jpg",
+      "price": "59,89€",
+      "characteristics": [
+        "Figurine en résine",
+        "Dimensions : L12 x H20 x P15 cm",
+        "Poids : 7 kg",
+        "Edition limitée"
+      ]
+    },
+    {
+      "id": "figurine-kisame",
+      "title": "Figurine Kisame",
+      "imagexs": "./img/figurine/Manga/Kisame-xs.jpg",
+      "image": "./img/figurine/Manga/Kisame-500.jpg",
+      "price": "344,89€",
+      "characteristics": [
+        "Figurine en résine",
+        "Dimensions : L32 x H41 x P33 cm",
+        "Poids : 13 kg",
+        "Edition limitée"
+      ]
+    },
+    {
+      "id": "figurine-naruto",
+      "title": "Figurine Naruto Uzumaki",
+      "imagexs": "./img/figurine/Manga/naruto-xs.jpg",
+      "image": "./img/figurine/Manga/naruto-500.jpg",
+      "price": "279,90€",
+      "characteristics": [
+        "Figurine en résine",
+        "Dimensions : L18 x H26 x P19 cm",
+        "Poids : 5 kg",
+        "Edition limitée"
+      ]
+    },
+    {
+      "id": "figurine-orochimaru",
+      "title": "Figurine Orochimaru",
+      "imagexs": "./img/figurine/Manga/orochimaru-xs.jpg",
+      "image": "./img/figurine/Manga/orochimaru-500.jpg",
+      "price": "549,90€",
+      "characteristics": [
+        "Figurine en résine",
+        "Dimensions : L40 x H55 x P31 cm",
+        "Poids : 20 kg",
+        "Edition limitée"
+      ]
+    }
+  ],
+
+  "videoGames": [
+    {
+      "id": "figurine-crash",
+      "title": "Crash Bandicoot",
+      "imagexs": "./img/figurine/JeuxVideo/crash-bandicoot-xs.jpg",
+      "image": "./img/figurine/JeuxVideo/crash-bandicoot-500.jpg",
+      "price": "57,90€",
+      "characteristics": [
+        "Figurine en PVC de haute qualité",
+        "Mesure environ 23 cm sur socle",
+        "Gamme First 4 Figures",
+        "Se présente en boîte cartonnée"
+      ]
+    },
+    {
+      "id": "figurine-vega",
+      "title": "Street Fighter - Vega",
+      "imagexs": "./img/figurine/JeuxVideo/vega-xs.jpg",
+      "image": "./img/figurine/JeuxVideo/vega-500.jpg",
+      "price": "439,90€",
+      "characteristics": [
+        "Figurine en PVC de haute qualité",
+        "Mesure environ 25 cm sur socle",
+        "Gamme Pop Culture Shock",
+        "Se présente en boîte cartonnée"
+      ]
+    },
+    {
+      "id": "figurine-link",
+      "title": "The Legend of Zelda - Link",
+      "imagexs": "./img/figurine/JeuxVideo/link-pvc-xs.jpg",
+      "image": "./img/figurine/JeuxVideo/link-pvc-500.jpg",
+      "price": "74,90€",
+      "characteristics": [
+        "Figurine en PVC de haute qualité",
+        "Mesure environ 25 cm sur socle",
+        "Gamme First 4 Figures",
+        "Se présente en boîte cartonnée"
+      ]
+    },
+    {
+      "id": "figurine-sonic",
+      "title": "Sonic The Edgehog",
+      "imagexs": "./img/figurine/JeuxVideo/sonic-xs.jpg",
+      "image": "./img/figurine/JeuxVideo/sonic-500.jpg",
+      "price": "44,90€",
+      "characteristics": [
+        "Figurine en PVC de haute qualité",
+        "Mesure environ 23 cm sur socle",
+        "Gamme Diamond Select",
+        "Se présente en boîte cartonnée"
+      ]
+    },
+    {
+      "id": "figurine-ezio",
+      "title": "Assassin's Creed II - Ezio Auditore",
+      "imagexs": "./img/figurine/JeuxVideo/ezio-auditore-xs.jpg",
+      "image": "./img/figurine/JeuxVideo/ezio-auditore-500.jpg",
+      "price": "129,99€",
+      "characteristics": [
+        "Figurine en PVC de haute qualité",
+        "Mesure environ 21 cm sur socle",
+        "Gamme Iron studios",
+        "Se présente en boîte cartonnée"
+      ]
+    },
+    {
+      "id": "figurine-deus",
+      "title": "Deus Ex Mankind Divided - Adam Jensen",
+      "imagexs": "./img/figurine/JeuxVideo/deus-ex-xs.jpg",
+      "image": "./img/figurine/JeuxVideo/deus-ex-500.jpg",
+      "price": "44,90€",
+      "characteristics": [
+        "Figurine en PVC de haute qualité",
+        "Mesure environ 22 cm sur socle",
+        "Gamme Gaya",
+        "Se présente en boîte cartonnée"
+      ]
+    },
+    {
+      "id": "figurine-nero",
+      "title": "Devil May Cry 5 - Nero",
+      "imagexs": "./img/figurine/JeuxVideo/devil-may-cry-5-xs.jpg",
+      "image": "./img/figurine/JeuxVideo/devil-may-cry-5-500.jpg",
+      "price": "199,90€",
+      "characteristics": [
+        "Figurine en PVC de haute qualité",
+        "Mesure environ 27 cm sur socle",
+        "Gamme Kotobukiyao",
+        "Se présente en boîte cartonnée"
+      ]
+    },
+    {
+      "id": "figurine-drake",
+      "title": "Uncharted 4 - Drake",
+      "imagexs": "./img/figurine/JeuxVideo/Drake-xs.jpg",
+      "image": "./img/figurine/JeuxVideo/Drake-500.jpg",
+      "price": "59,90€",
+      "characteristics": [
+        "Figurine en PVC de haute qualité",
+        "Mesure environ 30 cm sur socle",
+        "Gamme Gaya",
+        "Se présente en boîte cartonnée"
+      ]
+    },
+    {
+      "id": "figurine-megaman",
+      "title": "Megaman",
+      "imagexs": "./img/figurine/JeuxVideo/mega-man-xs.jpg",
+      "image": "./img/figurine/JeuxVideo/mega-man-500.jpg",
+      "price": "36,90€",
+      "characteristics": [
+        "Figurine en PVC de haute qualité",
+        "Mesure environ 23 cm",
+        "Gamme Grandista Exclusive Lines",
+        "Se présente en boîte cartonnée"
+      ]
+    },
+    {
+      "id": "okami",
+      "title": "First For Figures - Okami",
+      "imagexs": "./img/figurine/JeuxVideo/okami-xs.jpg",
+      "image": "./img/figurine/JeuxVideo/okami-500.jpg",
+      "price": "79,90€",
+      "characteristics": [
+        "Figurine en PVC de haute qualité",
+        "Mesure environ 22 cm sur socle",
+        "Gamme First 4 Figures",
+        "Se présente en boîte cartonnée"
+      ]
+    },
+    {
+      "id": "figurine-overwatch",
+      "title": "Overwatch - Reaper",
+      "imagexs": "./img/figurine/JeuxVideo/overwatch-reaper-xs.jpg",
+      "image": "./img/figurine/JeuxVideo/overwatch-reaper-500.jpg",
+      "price": "74,90€",
+      "characteristics": [
+        "Figurine en PVC de haute qualité",
+        "Mesure environ 16 cm sur socle",
+        "Good Smile Company",
+        "Se présente en boîte cartonnée"
+      ]
+    },
+    {
+      "id": "figurine-last",
+      "title": "The last of us - Ellie",
+      "imagexs": "./img/figurine/JeuxVideo/the-last-of-us-2-xs.jpg",
+      "image": "./img/figurine/JeuxVideo/the-last-of-us-2-500.jpg",
+      "price": "44,90€",
+      "characteristics": [
+        "Figurine en PVC de haute qualité",
+        "Mesure environ 20cm sur socle",
+        "Gamme Dark Horse",
+        "Se présente en boîte cartonnée"
+      ]
+    }
+  ],
+
+  "goodies": [
+    {
+      "id": "goodies-op-mug",
+      "title": "One Piece Mug",
+      "imagexs": "/img/goodies/One-piece-mug-xs.jpg",
+      "image": "/img/goodies/One-piece-mug-500.jpg",
+      "price": "12,00€",
+      "characteristics": [
+        "Dimensions : 10 cm",
+        "Contenance : 460 ml",
+        "Fabriqué par Abystyle",
+        "Mug en céramique"
+      ]
+    },
+    {
+      "id": "goodies-op-porte-cles-luffy",
+      "title": "One Piece Porte-clés Luffy",
+      "imagexs": "/img/goodies/One-piece-porte-cles-Luffy-xs.jpg",
+      "image": "/img/goodies/One-piece-porte-cles-Luffy-500.jpg",
+      "price": "6,00€",
+      "characteristics": [
+        "Dimensions : 4 x 5,5 cm",
+        "Matière : PVC",
+        "Fabriqué par Abystyle",
+        "Porte-clés Luffy D. Monkey"
+      ]
+    },
+    {
+      "id": "goodies-doraemon-bronze",
+      "title": "Doraemon Bronze",
+      "imagexs": "/img/goodies/doraemon-bronze-xs.jpg",
+      "image": "/img/goodies/doraemon-bronze-500.jpg",
+      "price": "450,00€",
+      "characteristics": [
+        "Dimensions : 11 cm",
+        "Matière : Bronze",
+        "Edition limitée à 500 exemplaires",
+        "COMIC TIME DORAEMON BRONZE"
+      ]
+    },
+    {
+      "id": "goodies-doraemon",
+      "title": "Doraemon Peluche",
+      "imagexs": "/img/goodies/doraemon-xs.jpg",
+      "image": "/img/goodies/doraemon-500.jpg",
+      "price": "44,99€",
+      "characteristics": [
+        "Peluche Doraemon",
+        "Mesure 25 cm ",
+        "Edition limitée Takashi Murakami x Uniqlo"
+      ]
+    },
+    {
+      "id": "goodies-death-note",
+      "title": "Lampe Death Note",
+      "imagexs": "/img/goodies/Death-note-xs.jpg",
+      "image": "/img/goodies/Death-note-500.jpg",
+      "price": "39,99€",
+      "characteristics": [
+        "Lampe Death Note Light Yagami",
+        "Disponible en 7 ou 16 couleurs",
+        "Bouton tactile pour le changement de couleur",
+        "Branchement USB ou piles"
+      ]
+    },
+    {
+      "id": "goodies-death-note-carnet",
+      "title": "Carnet Death Note",
+      "imagexs": "/img/goodies/Carnet-Death-Note-cover-xs.jpg",
+      "image": "/img/goodies/Carnet-Death-Note-cover-500.jpg",
+      "price": "14,99€",
+      "characteristics": [
+        "Carnet Death Note avec Stylo en forme de Plume",
+        "Dimensions Carnet : 20,5 x 14,5 cm - Plume : 30 cm",
+        "Couverture en simili cuir de haute qualité"
+      ]
+    },
+
+    {
+      "id": "goodies-ghibli-piggybank",
+      "title": "Ghibli Tirelire No Face",
+      "imagexs": "/img/goodies/tirelire-no-face-beneclic-chihiro_1-xs.jpg",
+      "image": "/img/goodies/tirelire-no-face-beneclic-chihiro_1-500.jpg",
+      "price": "49,99€",
+      "characteristics": [
+        "Tirelire No Face - Le voyage de Chihiro",
+        "DImensions : 20 cm",
+        "Matière : PVC",
+        "Livrée dans une boîte fabriquée aux couleurs de la licence Le voyage de Chihiro"
+      ]
+    },
+    {
+      "id": "goodies-ghibli-totoro",
+      "title": "Ghibli Peluche Totoro",
+      "imagexs": "/img/goodies/totoro-xs.jpg",
+      "image": "/img/goodies/totoro-500.jpg",
+      "price": "20,99€",
+      "characteristics": [
+        "Peluche officielle Studio Ghibli",
+        "Dimensions : 15 cm",
+        "Mon voisin Totoro - Totoro"
+      ]
+    }
+  ]
+}

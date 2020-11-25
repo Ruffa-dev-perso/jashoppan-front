@@ -1,0 +1,136 @@
+#logo {
+  margin: 20px;
+  width: auto;
+  height: 70px;
+}
+.header {
+  background-color: #343a40;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  box-shadow: 4px 2px 8px rgb(0, 0, 0);
+  height: 110px;
+}
+
+.nav-link {
+  margin: 0px 5px;
+}
+.navbar-dark .navbar-nav .nav-link {
+  color: white !important;
+  font-size: 22px;
+  transition: font-size 0.3s linear;
+}
+.navbar-dark .navbar-nav .nav-link:hover {
+  font-size: 25px;
+  border-bottom: solid 3px#e77b2e;
+  transition: font-size 0.3s linear;
+}
+.form-inline .form-control {
+  width: 500px !important;
+  text-align: center;
+  margin: 10px;
+  border: solid black 2px;
+  border-radius: 0px;
+}
+.form-inline {
+  justify-content: center;
+  padding: 10px 0px;
+  background-color: transparent;
+  border: solid 1px transparent;
+  border-radius: 0px;
+}
+#Menu {
+  float: right;
+  top: 20px;
+}
+.navbar-nav svg {
+  font-size: 20px;
+  vertical-align: sub;
+  position: relative;
+  bottom: 4px;
+  margin-right: 10px;
+}
+.menu-mobile {
+  display: none;
+}
+.menu-mobile-global {
+  display: none;
+}
+#search-toogle {
+  background-color: #303030ef;
+}
+
+#btn {
+  color: white;
+  border: transparent solid 1px;
+  background-color: transparent;
+}
+#btn:hover {
+  border-bottom: solid 1px#ffa766 !important;
+}
+#btn:focus {
+  box-shadow: none !important;
+}
+.modal-body a {
+  text-decoration: none;
+  color: black;
+}
+.modal-body a:hover {
+  text-decoration: none;
+  color: #e77b2e;
+}
+.form-control:focus {
+  box-shadow: none !important;
+  border-color: #e77b2e !important;
+}
+
+@media screen and (max-width: 880px) {
+  .navbar-dark .navbar-nav .nav-link {
+    color: white !important;
+    font-size: 25px;
+    display: none;
+  }
+  .menu-mobile {
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-size: 40px;
+    color: white;
+    margin-top: 35px;
+    margin-right: 40px;
+  }
+  .nav {
+    flex-direction: column;
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: #4c5157;
+    margin-top: 110px;
+    border-left: solid 3px #ffa766;
+    border-radius: 0px;
+  }
+  .menu-mobile-global .nav-link {
+    text-decoration: none;
+    color: white;
+    padding: 20px 40px;
+    font-size: 20px;
+  }
+  .menu-mobile-global .nav-link:hover {
+    text-decoration: none;
+    color: #ffa766;
+  }
+  .menu-mobile-global {
+    display: block;
+  }
+  #logo {
+    margin: 20px;
+    width: auto;
+    height: 70px;
+  }
+  .hide-icon {
+    display: none;
+  }
+}

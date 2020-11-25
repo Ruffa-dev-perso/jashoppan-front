@@ -1,0 +1,102 @@
+{
+  "Mangas": [
+    {
+      "id": "figurine-luffy",
+      "imagexs": "./img/figurine/Manga/One-piece-Luffy-xs.jpg",
+      "title": "Figurine Luffy",
+      "price": "Prix : 64,99€"
+    },
+    {
+      "id": "figurine-luffy-20th",
+      "imagexs": "./img/figurine/Manga/One-piece-Luffy-anniv-xs.jpg",
+      "title": "Figurine Luffy 20th Anniversary",
+      "price": "Prix : 399,99€"
+    },
+    {
+      "id": "figurine-chopper",
+      "imagexs": "./img/figurine/Manga/One-piece-Chopper-xs.jpg",
+      "title": "Figurine Chopper",
+      "price": "Prix : 79,99€"
+    },
+    {
+      "id": "figurine-usopp",
+      "imagexs": "./img/figurine/Manga/usopp-xs.jpg",
+      "title": "Figurine Usopp",
+      "price": "Prix : 34,99€"
+    }
+  ],
+  "JeuxVideo": [
+    {
+      "id": "figurine-crash",
+      "imagexs": "./img/figurine/JeuxVideo/crash-bandicoot-xs.jpg",
+      "title": "Crash Bandicoot",
+      "price": "Prix : 57,90€"
+    },
+    {
+      "id": "figurine-vega",
+      "imagexs": "./img/figurine/JeuxVideo/vega-xs.jpg",
+      "title": "Street Fighter - Vega",
+      "price": "Prix : 439,90€"
+    },
+    {
+      "id": "figurine-link",
+      "imagexs": "./img/figurine/JeuxVideo/link-pvc-xs.jpg",
+      "title": "The Legend of Zelda - Link",
+      "price": "Prix : 74,90€"
+    },
+    {
+      "id": "figurine-drake",
+      "imagexs": "./img/figurine/JeuxVideo/Drake-xs.jpg",
+      "title": "Uncharted - Drake",
+      "price": "Prix : 59,90€"
+    }
+  ],
+  "Goodies": [
+    {
+      "id": "goodies-op-mug",
+      "imagexs": "./img/Goodies/One-piece-mug-xs.jpg",
+      "title": "Mug Chopper",
+      "price": "Prix: 14,99€"
+    },
+
+    {
+      "id": "goodies-op-porte-cles-luffy",
+      "imagexs": "./img/Goodies/One-piece-porte-cles-Luffy-xs.jpg",
+      "title": "Porte-clés Luffy",
+      "price": "Prix: 9,99€"
+    },
+
+    {
+      "id": "goodies-death-note",
+      "title": "Lampe Death Note",
+      "imagexs": "/img/goodies/Death-note-xs.jpg",
+      "price": "29,99€"
+    },
+
+    {
+      "id": "goodies-doraemon",
+      "title": "Doraemon Peluche",
+      "imagexs": "/img/goodies/doraemon-xs.jpg",
+      "price": "Prix: 24,99€"
+    }
+  ],
+
+  "Toptendance": [
+    {
+      "imagexs": "./img/Goodies/One-piece-mug-xs.jpg",
+      "title": "Mug Chopper"
+    },
+    {
+      "imagexs": "./img/figurine/Manga/Piccolo-Daimao-xs.jpg",
+      "title": "Piccolo-DBZ"
+    },
+    {
+      "imagexs": "./img/figurine/JeuxVideo/Okami-xs.jpg",
+      "title": "Okami"
+    },
+    {
+      "imagexs": "./img/figurine/JeuxVideo/the-last-of-us-2-xs.jpg",
+      "title": "Statue Ellie"
+    }
+  ]
+}

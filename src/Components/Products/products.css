@@ -1,0 +1,38 @@
+.products {
+  margin-left: 20px;
+  /*display: flex;*/
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin-top: 50px;
+}
+.products .title {
+  color: rgb(75, 70, 70);
+  margin: 20px 20px 20px 0px;
+}
+.products .title2 {
+  color: rgb(56, 61, 56);
+}
+
+.products .text-content p {
+  margin-bottom: 5px;
+}
+
+.product-pic {
+  width: 100%;
+}
+
+#cart {
+  color: black;
+  border-color: orangered;
+}
+.button-cart {
+  text-align: left;
+  margin: 30px;
+}
+
+.characteristics {
+  padding: 8px;
+}
+.title4 {
+  margin-bottom: 1rem;
+}

@@ -1,0 +1,23 @@
+.showCart {
+  max-width: 100%;
+  margin: 20px 200px !important;
+  align-items: center;
+  justify-content: center;
+}
+.showCart img {
+  width: 225px;
+  height: 225px;
+}
+
+.showCart-content .col {
+  font-size: 25px;
+}
+.showCart-content .col p {
+  margin: 20px;
+  font-size: 25px;
+}
+#cart-icon {
+  color: #e77b2e;
+  position: relative;
+  bottom: 4px;
+}

@@ -1,0 +1,20 @@
+/**
+ * Components/Admin/style.css - Admin component style
+ * Style for Admin component
+ */
+
+#adminContainer {
+    background-color: white;
+    margin: 5vh 5vw;
+    padding: 50px;
+    box-shadow: 3px 5px 8px grey;
+}
+
+#adminContainer .center-align {
+    text-align: center;
+}
+
+#adminContainer .title {
+    margin: 50px 0px;
+    font-size: 1.2rem;
+}

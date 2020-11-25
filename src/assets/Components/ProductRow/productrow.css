@@ -1,0 +1,19 @@
+.product-row-col {
+  margin: 20px 0px;
+  text-align: center;
+}
+.product-row-col p {
+  margin: 5px 0px;
+}
+.product-row-col .product-card img {
+  margin: auto;
+}
+.product-card .h5,
+h5 {
+  font-size: 1rem;
+}
+/*#product-button {
+  background-color: orangered;
+  border-color: black;
+  color: black;
+}*/
